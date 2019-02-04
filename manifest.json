@@ -1,0 +1,16 @@
+{
+    "name": "Pics to Puppies",
+    "version": "1.0",
+    "description": "Replace pictures on a website with puppies",
+    "manifest_version": 2,
+    "permissions": ["activeTab", "declarativeContent"],
+    "icons": {
+      "16": "images/icon_16.png",
+      "32": "images/icon_32.png",
+      "64": "images/icon_64.png",
+      "128": "images/icon_128.png"
+    },
+    "background": {
+      "scripts": ["script.js"]
+    }
+}
