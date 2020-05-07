@@ -1,7 +1,8 @@
 {
-    "name": "Pics to Puppies",
+    "name": "Pictures to Puppies",
+    "author": "Maxine Zhang",
     "version": "1.0",
-    "description": "Replace pictures on a website with puppies",
+    "description": "Replace pictures on a website with pictures of puppies",
     "manifest_version": 2,
     "permissions": ["activeTab", "declarativeContent"],
     "icons": {
